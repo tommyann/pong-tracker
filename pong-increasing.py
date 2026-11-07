@@ -15,13 +15,13 @@ paddle_height = 100
 paddle_width = 15
 paddle_x = 30
 paddle_y = (HEIGHT - paddle_height) // 2
-paddle_speed = 500 #pixel per second
+paddle_speed = 200 #pixel per second
 
 paddle=pygame.Rect(paddle_x, paddle_y, paddle_width, paddle_height)
 
 # ball
 ball_start_position=(300, 250)
-ball_initial_vel=(20, 10) #pixels per second
+ball_initial_vel=(200, 100) #pixels per second
 ball_pos = pygame.Vector2(ball_start_position)
 ball_radius = 10
 ball_vel = pygame.Vector2(ball_initial_vel) #hor, ver, pixels per second

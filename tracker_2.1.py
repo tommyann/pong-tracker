@@ -1,7 +1,7 @@
 #CHANGES: 1. detect_objects also detects ball radius
 #         2. chose action continuously, only chose direction 
 #           at set time intervals
-dt = 0.6
+dt = 0.1
 
 import mss
 import numpy as np
