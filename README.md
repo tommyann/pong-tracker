@@ -1,3 +1,6 @@
+This is my first project.
+
+
 to be used with .venv313 environment
 
 pong.py - simple pong game made with pygame,
