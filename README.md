@@ -1,7 +1,6 @@
 This is my first project.
 
-
-to be used with .venv313 environment
+See req.txt
 
 pong.py - simple pong game made with pygame,
 pong-increasing.py - increases velocity at every bounce, to test how accurate the tracker is with increasing speed
