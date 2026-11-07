@@ -1,6 +1,7 @@
 This is my first project.
 
 See req.txt
+Needs python 3.13
 
 pong.py - simple pong game made with pygame,
 pong-increasing.py - increases velocity at every bounce, to test how accurate the tracker is with increasing speed
