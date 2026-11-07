@@ -4,6 +4,8 @@ Objective:
 Create a python program that 1. detects a ball and a paddle in a pong game, 2. plays the game accordingly.
 I created pong.py only to have a simple pong game to use my program on, but the tracker is independent from pong.py and does not know any information used in the game script.
 
+## Demo
+![Live Tracker demo](/assets/tracker.gif)
 
 ## requirements
 See req.txt
